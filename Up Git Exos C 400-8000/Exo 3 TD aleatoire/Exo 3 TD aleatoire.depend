@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1635234693 source:c:\users\comeb\documents\code\programmes\exo 3 td aleatoire\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1635231276 source:c:\users\comeb\documents\code\programmes\exos\exo 3 td aleatoire\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
