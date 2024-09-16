@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632687854 source:c:\users\comeb\documents\code\test des exos\main.c
+	<stdio.h>
+	<stdlib.h>
+
